@@ -1,0 +1,92 @@
+body{
+    background: #fff1d6;
+    font-family: Antonio, sans-serif;
+    text-align: justify;
+    line-height: 1.6;
+}
+.master{
+    float: left;
+    width: 680px;
+}
+.container{
+    margin: auto;
+    width: 960px;
+}
+.place{
+    background-color: #fff;
+    border-color: #ccc #999 #999 #ccc;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 15px 15px 15px 15px;
+}
+.place h2{
+    font-family: Antonio, sans-serif;
+    font-weight: bold;
+    border-bottom: 1px;
+    margin: 0;
+}
+.place p{
+    font-family: Antonio, sans-serif, light;
+    font-weight: lighter;
+}
+.place a{
+    color: #2C88A7;
+    font-weight: bold;
+    text-decoration: none;
+}
+.place a:hover{
+    color: #35a4c9;
+}
+.title{
+    margin: auto;
+    width: 960px;
+}
+.title h1 a{
+    color: #000000;
+    text-decoration: none;
+}
+.title h1 a:hover{
+    color: rgb(130, 130, 130);
+}
+.place img{
+    width: 40%;
+    border: 1px solid #ccc;
+    float: left;
+    margin: 10px 10px 0 0;
+    padding: 2px;
+}
+.clear{
+    clear: both;
+}
+.footer{
+    font-size: 12px;
+    text-align: center;
+    background-color: #d5c096;
+}
+h3 a{
+    color: #000000;
+    text-decoration: none;
+}
+h3 a:hover{
+    color: rgb(130, 130, 130);
+}
+.sidenote{
+    background-color: #fffbe4;
+    border: 1px solid #c9bc8f;
+    float: right;
+    padding: 10px;
+    width: 250px;
+    border-radius: 15px 15px 15px 15px;
+}
+.sidenote h3{
+    font-size: 14px; margin-top: 0;
+}
+.sidenote li a{
+    color: #000000;
+    text-decoration: none;
+    font-size: 12;
+}
+.sidenote li a:hover{
+    color: rgb(130, 130, 130);
+}
