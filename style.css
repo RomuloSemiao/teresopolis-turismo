@@ -1,6 +1,6 @@
 body{
     background: #fff1d6;
-    font-family: Antonio, sans-serif;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana, sans-serif;
     text-align: justify;
     line-height: 1.6;
 }
@@ -21,13 +21,11 @@ body{
     border-radius: 15px 15px 15px 15px;
 }
 .place h2{
-    font-family: Antonio, sans-serif;
     font-weight: bold;
     border-bottom: 1px;
     margin: 0;
 }
 .place p{
-    font-family: Antonio, sans-serif, light;
     font-weight: lighter;
 }
 .place a{
