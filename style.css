@@ -30,7 +30,6 @@ body{
 }
 .place a{
     color: #2C88A7;
-    font-weight: bold;
     text-decoration: none;
 }
 .place a:hover{
